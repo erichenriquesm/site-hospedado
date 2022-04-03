@@ -6,7 +6,7 @@
     src: url(fontes/Technotot.otf) format('opentype');
 }
 body{
-    font: normal 1.3em sans-serif ;
+    font: normal lighter 1.3em sans-serif ;
     background-color: rgba(128, 128, 128, 0.295);
 }
 :root{
@@ -79,8 +79,9 @@ h2{
 p{
     padding-top: 10px;
     text-indent: 20px;
-    font-size: 1.3em;
+    font-size: 1em;
     text-align: justify;
+    font-weight: lighter;
 }
 img{
     width: 100%;
