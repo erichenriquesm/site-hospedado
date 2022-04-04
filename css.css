@@ -6,7 +6,7 @@
     src: url(fontes/Technotot.otf) format('opentype');
 }
 body{
-    font: normal lighter 1.3em sans-serif ;
+    font: normal  1.3em sans-serif ;
     background-color: rgba(128, 128, 128, 0.295);
 }
 :root{
