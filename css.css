@@ -48,9 +48,6 @@ div  a{
     margin: auto;
     color: rgb(0, 0, 0);
 }
-div{
-    margin-bottom: 10px;
-}
 main{
     background-color: white;
     padding: 10px;
@@ -90,4 +87,21 @@ img{
 }
 footer{
     text-align: center;
+}
+div{
+    position: relative;
+}
+div .perfil{
+    position: absolute;
+}
+.perfil{
+    width: 50px;
+}
+div > a{
+    position: absolute;
+    top: 20px;
+    left: 60px;
+}
+.github{
+    color: blueviolet;
 }
